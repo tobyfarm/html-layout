@@ -1,0 +1,23 @@
+body{
+  margin: auto;
+}
+header{
+  background-color: #343434;
+  height: 200px;
+
+}
+.body {
+  background-color: #cfcfcf;
+}
+.container {
+  background-color: #ebebeb;
+  width: 80%;
+  height: 1000px;
+  margin: auto;
+}
+.footer {
+  background-color: black;
+  width: 80%;
+  height: 100px;
+  margin: auto;
+}
