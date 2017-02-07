@@ -1,0 +1,35 @@
+body{
+  height: 1000px;
+  width: 1000px;
+}
+.left{
+  background-color: #3c7bda;
+  width: calc(100%/3);
+  height: 1000px;
+  width: 200px;
+  float: left;
+}
+.center{
+  background-color: #46e0b5;
+  width: calc(100%/3);
+  height: 1000px;
+  width: 200px;
+  float: left;
+}
+.right{
+  width: calc(100%/3);
+  float: left;
+
+}
+.righttop{
+  background-color: #abe874;
+  height: 750px;
+  width: 200px;
+
+}
+.rightbottom{
+  height: 250px;
+  width: 200px;
+  background-image: url("http://images.nymag.com/news/business/boom-brands/business130930_grumpycat_2_560.jpg");
+background-size: cover;
+}
