@@ -1,0 +1,41 @@
+body {
+margin: 0;
+}
+header {
+  background-color: #cfcfcf;
+  height: 100px;
+  padding-top: 10px;
+
+}
+.text {
+  background-color: white;
+  height: 300px;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 20px;
+  font-size: 30px;
+}
+.blue {
+  background-color: #3c7bda;
+  height: 100px;
+}
+.aqua {
+  background-color: #46e0b5;
+  height: 100px;
+}
+.lime {
+  background-color: #abe874;
+  height: 100px;
+}
+.yellow {
+  background-color: #f6e518;
+  height: 100px;
+}
+.box {
+  height: 80px;
+  width: 80px;
+  background-color: #3c7bda;
+  margin-top: 5px;
+  margin-bottom:  10px;
+  margin-left:  25px;
+}

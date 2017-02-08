@@ -14,11 +14,11 @@ body{
   width: calc(100%/3);
   height: 1000px;
   width: 200px;
-  float: left;
+    float: left;
 }
 .right{
   width: calc(100%/3);
-  float: left;
+    float: left;
 
 }
 .righttop{

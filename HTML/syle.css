@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: transparent;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.mainhead {
+height: 550px;
+width: auto;
+background: url("http://cdn01.wideopentech.com/themes/wot-2013-gm/_/img/wot-masthead-dark.jpg") center top;
+background-size: cover;
+}
+.texthead {
+  width:760px;
+  margin: 0 auto;
+  padding-top: 60px;
+
+
+}
+.maintextsmall {
+  font-family: 'Oswald';
+  font-size: 22px;
+  font-weight: 500;
+text-align: left;
+color: white;
+margin: auto;
+width: 760px;
+display: block;
+text-align: left;
+margin-left: 34px
+/*margin: auto;*/
+
+}
+#maintextbig {
+  font-family: 'Oswald';
+  font-size: 155px;
+  font-weight: 300;
+display: block;
+color: white;
+line-height: 140px;
+text-align: center;
+
+}
+.secmain {
+    background-color: rgb(236, 237, 236);
+    padding-bottom: 20px;
+
+}
+.sec2 {
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  color: rgb(106, 120, 124);
+  line-height: 36px;
+  max-width: 940px;
+  margin: auto;
+  text-align: center;
+}
+.icon1 {
+
+}
+.smalltexthead{
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  /*line-height: 19.8;*/
+  /*width: 760px;*/
+color: white;
+text-align: center;
+padding-top: 15px;
+text-align: center;
+margin: auto;
+height: 50px;
+}
+#sol{
+  color: rgb(176, 209, 24);
+}
+ #ideas {
+   color: rgb(252, 106, 35)
+ }
+.howtitle {
+  font-family: 'Oswald';
+  font-size: 42px;
+  font-weight: 300;
+text-align: center;
+line-height: 46.2px;
+  color: rgb(106, 120, 124);
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+#work {
+  font-size: 42px;
+  font-weight: 500;
+  color: rgb(176, 209, 24);
+}
+.weworkwith {
+  text-align: center;
+  color: rgb(87, 101, 105);
+  font-family: 'Oswald';
+  font-size: 42px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: white;
+  font-weight: 300;
+
+}
+
+.portfolio {
+  display: inline-block;
+  width: 100%;
+}
+
+.p11 {
+  width: 33.3%;
+  height: 240px;
+  background-color: green;
+  display: inline-block ;
+  margin: 0;
+  padding: 0;
+   /*background: url(pic1.jpg);*/
+}
+.p2 {
+  width: 33.3%;
+  height: 240px;
+   background: url(images/pic2.png);
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  object-fit: contain;
+   /*background: url(pic1.jpg);*/
+}
+.p3 {
+  width: 33.3%;
+  height: 240px;
+  background-color: blue;
+  background: url(images/pic3.png);
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  object-fit: scale-down;
+   /*background: url(pic1.jpg);*/
+}
